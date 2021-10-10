@@ -54,3 +54,12 @@ Specify what it takes to deploy your app.
 * Development Browser Extensions
   * [ember inspector for chrome](https://chrome.google.com/webstore/detail/ember-inspector/bmdblncegkenkacieihfhpjfppoconhi)
   * [ember inspector for firefox](https://addons.mozilla.org/en-US/firefox/addon/ember-inspector/)
+
+## Terminal Commands
+
+### 4. Route and Model
+
+* `ember install embercasts-library-styles`
+* `ember generate ember-cli-sass`
+* `ember generate route author`
+* `ember generate route index`
